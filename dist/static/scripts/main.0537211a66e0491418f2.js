@@ -1,0 +1,1 @@
+(()=>{"use strict";var o=[2,3,5].map((function(o){return 2*o}));console.log(o),console.log({button:"index-module__button__hKxt0"})})();
